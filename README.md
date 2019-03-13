@@ -1,2 +1,3 @@
-# hackerrank
-Problems from https://www.hackerrank.com
+# Hacker Rank
+
+Problems from [hackerrank](https://www.hackerrank.com)
